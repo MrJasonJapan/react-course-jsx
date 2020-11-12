@@ -1,0 +1,2 @@
+The completed code for each project can be found here:
+https://github.com/StephenGrider/redux-code
